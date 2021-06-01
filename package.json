@@ -1,0 +1,20 @@
+{
+  "name": "playstore-app-info",
+  "version": "1.0.1",
+  "description": "Retrieve App Information from Google Play Store",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "google-playstore",
+    "app-details",
+    "google-app-info",
+    "playstore-app-info",
+    "search-app-details",
+    "google-apps"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.6.0",
+    "playstore-app-info": "^1.0.0"
+  }
+}
