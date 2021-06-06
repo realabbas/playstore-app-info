@@ -1,5 +1,7 @@
 ### Playstore App Info
 
+![Playstore App Info Repository Gt App Details](./demo/playstore.png)
+
 #### Usage
 
 ```
