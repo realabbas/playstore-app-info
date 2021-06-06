@@ -53,3 +53,5 @@ play_app_info("com.kakarooms").then(res=>{
   }
 }
 ```
+
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=realabbas.playstore-app-info)
