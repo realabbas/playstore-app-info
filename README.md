@@ -13,6 +13,14 @@ play_app_info("com.kakarooms").then(res=>{
 
 ```
 
+#### NPM Package
+
+You can also use this in form of **npm package**
+ <a href="https://www.npmjs.com/package/playstore-app-info">
+    <img alt="NPM"
+      src="https://img.shields.io/badge/-npm-red?style=for-the-badge&logo=npm&logoColor=white">
+   </a>
+
 #### Response Schema
 
 | Property                  | Type    | Value |
@@ -74,10 +82,6 @@ play_app_info("com.kakarooms").then(res=>{
   }
 }
 ```
-#### NPM Package
-
-You can also use this in form of **npm package** Click here to go to [npm](https://www.npmjs.com/package/playstore-app-info)
-
 #### Dependencies
 
 - JSDOM
