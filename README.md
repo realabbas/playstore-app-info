@@ -53,5 +53,8 @@ play_app_info("com.kakarooms").then(res=>{
   }
 }
 ```
+#### NPM Package
+
+You can also use this in form of **npm package** Click here to go to [npm](https://www.npmjs.com/package/playstore-app-info)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=realabbas.playstore-app-info)
