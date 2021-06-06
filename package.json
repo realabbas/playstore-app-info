@@ -1,6 +1,6 @@
 {
   "name": "playstore-app-info",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Retrieve App Information from Google Play Store",
   "license": "MIT",
   "main": "index.js",
