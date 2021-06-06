@@ -87,7 +87,7 @@ You can also use this in form of **npm package** Click here to go to [npm](https
 
 ##### ToDo 
 
-- --- Build APIs and serve over server ---
+- ~~Build APIs and serve over server~~
 - Add Apple App Store Scraping Logic
 
 #### Linked Repo
